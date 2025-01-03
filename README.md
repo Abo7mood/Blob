@@ -4,6 +4,9 @@ Welcome to the **Blob Project**! 🟠 This is a **proof of concept (POC)** showc
 
 ![image](https://github.com/user-attachments/assets/5744b67b-b15b-474c-bb28-3cd267181936)
 
+# Solo Project 🔥🔥🔥
+this project being made solo by me
+
 ## 🎮 Gameplay Details 🎮
 
 - **Operating System**: Windows 🖥️  
