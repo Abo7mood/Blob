@@ -60,6 +60,8 @@ This collaboration provided an opportunity to implement **advanced physics-based
 
 - **Unfortunately, there is no demo for this game at the moment as it is only a proof of concept.**
 
+## status: done 🟢
+
 # مشروع الكتلة 🟠
 --------------------------
 
@@ -122,3 +124,4 @@ This collaboration provided an opportunity to implement **advanced physics-based
 
 - **للأسف، لا يوجد نسخة تجريبية متاحة حاليًا حيث أن المشروع هو مجرد مفهوم تجريبي.**
 
+## الحالة : تم الإنتهاء 🟢
